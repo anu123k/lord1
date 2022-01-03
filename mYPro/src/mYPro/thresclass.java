@@ -6,6 +6,9 @@ public class thresclass {
 		// TODO Auto-generated method stub
                       System.out.println("hello world ");
                       System.out.println("hello world ");
+                      
+                      System.out.println("hello sunny leone");
+                      System.out.println("hello kiara lord");
 		
 	}
 
