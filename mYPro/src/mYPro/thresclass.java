@@ -7,8 +7,7 @@ public class thresclass {
                       System.out.println("hello world ");
                       System.out.println("hello world ");
                       
-                      System.out.println("hello sunny leone");
-                      System.out.println("hello kiara lord");
+                      
 		
 	}
 
